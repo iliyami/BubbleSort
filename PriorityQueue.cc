@@ -8,5 +8,5 @@ int main()
 {
     // Implement a priority queue
 
-	return 0;
+	return 1;
 }
